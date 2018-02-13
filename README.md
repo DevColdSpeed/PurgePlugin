@@ -27,7 +27,7 @@ Custom Textures
 ---
 # Copyright
 
-[License]() ©
+[License](https://github.com/DevColdSpeed/PurgePlugin/blob/master/License) ©
 
 # Contact Dev's
 
