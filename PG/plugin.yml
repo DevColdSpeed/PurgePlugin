@@ -1,1 +1,13 @@
+name: PurgePlugin
+main: src\pgvillie\PGmain
+version: 1.0.0
+api: [3.0.0-APLHA7, 3.0.0-APLHA8, 3.0.0-APLHA9, 3.0.0-APLHA10]
 
+load: POSTWORLD
+author: TeamConder
+description: This is a plugin for killing is a R-Rated Plugin XD
+website: https://github.com/DevColdSpeed/PurgePlugin
+commands:
+ create:
+   
+permmissions:
