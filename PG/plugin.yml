@@ -8,6 +8,32 @@ author: TeamConder
 description: This is a plugin for killing is a R-Rated Plugin XD
 website: https://github.com/DevColdSpeed/PurgePlugin
 commands:
- create:
-   
+ Create:
+description: This create's a purge place for you to make the magic happen
+usage: 'Usage /purge create'
+ permmissions: purgeplugin.command.create
+ Del:
+description: This deletes a purge 
+usage: 'Usage /purge del'
+ permmissions: purgeplugin.command.del
+ Ui:
+description: Opens the purge Ui
+usage: 'Usage /purge menuopen'
+permmissions: purgeplugin.command.uiopen
+ House:
+ description: Creates a house for the purge 
+ usage: 'Usage /purge crhouse'
+ permmissions: purgeplugin.command.house
+ Help
+ description: helps a player with commands in gane
+ usage: 'Usage /purge help'
+permmissions: purgeplugin.command.help
+ Timer:
+   description: adds a timer if you want to have it in the game (dont have to etc,)
+   usage: 'Usage /purge timer'
+  permmissions: purgeplugin.command.timer
+  System:
+    description: makes a system for your reasonsins like add a command or something BTW OPENS A FILE IN YOUR SERVER DATA_BASE (YOU HAVE TO CODE TO ADD YOUR OWN STUFF)
+    usage "Usage /purge opensys"
+     permmissions: purgeplugin.command.opensys
 permmissions:
