@@ -4,9 +4,10 @@ alt="build status"></a>
 
 ![](Images/download.jpg)
 ~~~
-This is a plugin for fun & adventure & to expand for awhile you
-need to level up your fnaf team & there is no edting unless
-There is no more updates or we can't think of ideas
+This is a plugin for scarey fun R-rated content in mcpe it dose include shooting and
+much more of that kind of stuff you can also do alot in this plugin
+so thank our team / me for right now for making this
+so hope you enjoy when comes out
 ~~~
 ---
 # CommingSoon
