@@ -11,10 +11,10 @@ There is no more updates or we can't think of ideas
 ---
 # CommingSoon
 ~~~
-Team UI (Pick & chose your people)
-FNAF Shop UI (Power up & more) (People in-game of this plugin sell it)
-Characters begin made for begining (Freddy,Chica,Bonnie,Foxy),(New Freddy,New Bonnie,New Chica,New Mangle)
-Custom Textures
+Ui (Pick your own weapons etc,)
+lootcrates
+help
+freindlygame
 ~~~
 # Bugs
 ~~~
